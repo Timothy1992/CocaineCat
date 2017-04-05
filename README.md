@@ -6,8 +6,8 @@ This should be a Jump'n'Run Game of a cocaine obssed cat.
 ### Setup your development environment
 1. Clone the repository or download and extract the ZIP file
 2. Import the project into your preferred development environment, run, debug and package it!
-..- Eclipse
-..- Intellij IDEA
+- Eclipse
+- Intellij IDEA
 
 
 Part 1:
